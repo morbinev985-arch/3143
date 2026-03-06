@@ -36,5 +36,6 @@ public class Main {
         employeeBook.calculateTaxes("PROPORTIONAL");
         System.out.println();
         employeeBook.calculateTaxes("PROGRESSIVE");
-        }
+        System.out.println("end");
+    }
     }
